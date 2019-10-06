@@ -1,5 +1,1 @@
-# selenium-with-python
-
-This is my first repository here
-
-My second commit
+В этом репозитории хранится решение задачи на Python для работы с несколькими окнами.
